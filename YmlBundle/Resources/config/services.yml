@@ -1,0 +1,4 @@
+services:
+#    z_yml.example:
+#        class: Z\YmlBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]

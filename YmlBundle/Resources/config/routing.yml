@@ -1,0 +1,3 @@
+z_yml_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: ZYmlBundle:Default:index }
